@@ -1,4 +1,4 @@
-package com.kayigwe.cpu;
+package com.example.shangliu.processinfo_trial;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CPU</string>
+    <string name="app_name">ProcessInfo_trial</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
